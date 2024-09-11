@@ -1,0 +1,2 @@
+# webpack_code
+基于webpack5，一些最基础的配置，在不使用webpack_devServer，直接使用npx webpack进行项目打包后查看更改效果demo;对比webpack_code_devserver项目，感受devserver的魅力
